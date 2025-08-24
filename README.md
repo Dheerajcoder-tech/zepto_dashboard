@@ -16,4 +16,5 @@ Key Insights
 - SQL
 
 Dashboard Preview
-![Uploading Zepto.png…]()
+
+<img width="1120" height="627" alt="Zepto" src="https://github.com/user-attachments/assets/e623eec8-923f-412c-b002-1f14a03690b8" />
